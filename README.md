@@ -9,6 +9,8 @@ react-toastify
 
 In this application we can perform CRUD operations on our todolist items.
 
+This Project is hosted on gh-pages.Link: https://sushilraj176.github.io/todolistreact-redux/
+
 The site can be run locally by cloning the repository and typing npm install
 
 Available Scripts
